@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.p1{
+    color: aqua;
+    font-size: small;
+}
+.p2{
+    color: lightgoldenrodyellow;
+    font-size: small;
+}
+.p3{
+    color: brown;
+    font-size: small;
+}
+.pic{
+    width:150px ;
+  
+}
+.Contact{
+    font-size: medium;
+    text-align: right;
+    color: white;
+}
